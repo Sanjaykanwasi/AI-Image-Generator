@@ -3,7 +3,7 @@ const generateForm = document.querySelector(".main-form");
 const imgGallery = document.querySelector(".image-section");
 
 //API
-const OPENAI_API_KEY = "";
+// const OPENAI_API_KEY = "";
 
 // Function to Update Img Card
 const updateImageCard = (imgDataArray) => {
